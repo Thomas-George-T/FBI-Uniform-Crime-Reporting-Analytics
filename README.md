@@ -1,9 +1,9 @@
 # FBI Uniform Crime Reporting Analytics
 
-![GitHub](https://img.shields.io/github/license/Thomas-George-T/FBI-Uniform-Crime-Reporting-Analysis?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/Thomas-George-T/FBI-Uniform-Crime-Reporting-Analysis?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/Thomas-George-T/FBI-Uniform-Crime-Reporting-Analysis?style=flat)
-![ViewCount](https://views.whatilearened.today/views/github/Thomas-George-T/FBI-Uniform-Crime-Reporting-Analysis.svg?cache=remove)
+![GitHub](https://img.shields.io/github/license/Thomas-George-T/FBI-Uniform-Crime-Reporting-Analytics?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/Thomas-George-T/FBI-Uniform-Crime-Reporting-Analytics?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/Thomas-George-T/FBI-Uniform-Crime-Reporting-Analytics?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/Thomas-George-T/FBI-Uniform-Crime-Reporting-Analytics.svg?cache=remove)
 
 <p align="center">  
     <br>
